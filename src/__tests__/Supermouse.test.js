@@ -3,6 +3,8 @@ import Supermouse from '../Supermouse';
 
 console.log("TRPLX contributed");
 
+let supermouseArray = new Array();
+
 jest.useFakeTimers();
 
 describe('Supermouse', () => {
